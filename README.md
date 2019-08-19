@@ -1,6 +1,9 @@
-# study
+# Flutter Study UI 
+<img src="/assets/study.png">
 
-A new Flutter project.
+<p>Watch the Video on Youtube - <a href="https://youtu.be/by3vqEt89S0" rel="nofollow">Youtube Video</a></p>
+<p>Also Don't Forget to Subscribe to My youtube Channel - <a href="https://www.youtube.com/channel/UCuArmx2gHQooKQ3oMLTbv2Q" rel="nofollow">Youtube Channel</a></p>
+
 
 ## Getting Started
 
