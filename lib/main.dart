@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'Splash.dart';
+import 'package:study/Home.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Color(0xFF8dc44a),
         primarySwatch: Colors.blue,
       ),
-      home:Splash(),
+      home:Home(),
       debugShowCheckedModeBanner: false,
     );
   }
